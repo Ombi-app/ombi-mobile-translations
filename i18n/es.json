@@ -1,0 +1,43 @@
+{
+  "Common": {
+    "Available": "Disponible",
+    "Approved": "Aprobado",
+    "Pending": "Pendiente",
+    "Movie": "Película",
+    "TvShow": "Programa de televisión"
+  },
+  "Settings": {
+    "Logout": "Cerrar sesión",
+    "Welcome": "Bienvenido"
+  },
+  "Login": {
+    "SignIn": "INICIAR SESIÓN",
+    "SignInTo": "Iniciar sesión en",
+    "QRCode": "ESCANEAR CÓDIGO QR",
+    "LoginIssue": "¿Tiene problemas para iniciar sesión en la aplicación? Presione aquí",
+    "NoCameraAccess": "¡El acceso a la cámara ha sido deshabilitado para esta aplicación!",
+    "UsernamePlaceholder": "Nombre de usuario",
+    "PasswordPlaceholder": "Contraseña",
+    "OmbiUrlPlaceholder": "URL Ombi",
+    "Errors": {
+      "LoginError": "Error de inicio de sesión",
+      "WrongServerTitle": "Versión de servidor incorrecta",
+      "OlderServer": "¡Ha intentado iniciar sesión en un servidor Ombi antiguo! Comuníquese con su administrador para actualizar.",
+      "IncorrectQRTitle": "Servidor Ombi incorrecto",
+      "IncorrectQR": "El código QR es incorrecto, hable con su administrador",
+      "IncorrectUrl": "La URL que estás usando parece ser incorrecta, verifica que sea el servidor correcto."
+    }
+  },
+  "Discover": {
+    "PopularMovies": "Películas populares",
+    "SearchTitle": "Buscar",
+    "DiscoverTitle": "Descubrir",
+    "PopularTv": "TV popular",
+    "TopRatedMovies": "Películas mejor calificadas",
+    "TrendingTv": "Trending Tv",
+    "UpcomingMovies": "Próximas películas",
+    "AnticipatedTv": "Tv anticipado",
+    "CarouselTitle": "Mostrando {{count}} elementos totales",
+    "Errors": {}
+  }
+}

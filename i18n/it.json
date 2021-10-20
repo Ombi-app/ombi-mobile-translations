@@ -1,0 +1,43 @@
+{
+  "Common": {
+    "Available": "A disposizione",
+    "Approved": "Approvato",
+    "Pending": "in attesa di",
+    "Movie": "Film",
+    "TvShow": "Programma televisivo"
+  },
+  "Settings": {
+    "Logout": "Esci",
+    "Welcome": "Benvenuto"
+  },
+  "Login": {
+    "SignIn": "ACCEDI",
+    "SignInTo": "Accedi a",
+    "QRCode": "SCANSIONE CODICE QR",
+    "LoginIssue": "Hai problemi ad accedere all'app? Premi qui",
+    "NoCameraAccess": "L'accesso alla telecamera è stato disabilitato per questa app!",
+    "UsernamePlaceholder": "Nome utente",
+    "PasswordPlaceholder": "Password",
+    "OmbiUrlPlaceholder": "URL Ombi",
+    "Errors": {
+      "LoginError": "Errore di accesso",
+      "WrongServerTitle": "Versione server errata",
+      "OlderServer": "Hai tentato di accedere a un server Ombi precedente! Contatta l'amministratore per l'aggiornamento.",
+      "IncorrectQRTitle": "Ombi Server non corretto",
+      "IncorrectQR": "Il codice QR non è corretto, rivolgiti al tuo amministratore",
+      "IncorrectUrl": "L'URL che stai utilizzando sembra non essere corretto, verifica che sia il server corretto"
+    }
+  },
+  "Discover": {
+    "PopularMovies": "Film popolari",
+    "SearchTitle": "Ricerca",
+    "DiscoverTitle": "Scoprire",
+    "PopularTv": "TV popolare",
+    "TopRatedMovies": "Film più votati",
+    "TrendingTv": "Tv di tendenza",
+    "UpcomingMovies": "Film in arrivo",
+    "AnticipatedTv": "Tv anticipata",
+    "CarouselTitle": "Visualizzazione di {{count}} articoli totali",
+    "Errors": {}
+  }
+}

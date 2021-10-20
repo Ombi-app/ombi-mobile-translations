@@ -1,0 +1,43 @@
+{
+  "Common": {
+    "Available": "Verfügbar",
+    "Approved": "Genehmigt",
+    "Pending": "steht aus",
+    "Movie": "Film",
+    "TvShow": "Fernsehsendung"
+  },
+  "Settings": {
+    "Logout": "Abmelden",
+    "Welcome": "Willkommen"
+  },
+  "Login": {
+    "SignIn": "ANMELDEN",
+    "SignInTo": "Anmelden bei",
+    "QRCode": "SCAN QR CODE",
+    "LoginIssue": "Haben Sie Probleme beim Anmelden bei der App? Klicken Sie hier",
+    "NoCameraAccess": "Der Kamerazugriff wurde für diese App deaktiviert!",
+    "UsernamePlaceholder": "Benutzername",
+    "PasswordPlaceholder": "Passwort",
+    "OmbiUrlPlaceholder": "Ombi URL",
+    "Errors": {
+      "LoginError": "Login Fehler",
+      "WrongServerTitle": "Falsche Serverversion",
+      "OlderServer": "Sie haben versucht, sich bei einem älteren Ombi-Server anzumelden! Bitte wenden Sie sich zum Aktualisieren an Ihren Administrator.",
+      "IncorrectQRTitle": "Falscher Ombi Server",
+      "IncorrectQR": "Der QR-Code ist falsch. Bitte sprechen Sie mit Ihrem Administrator",
+      "IncorrectUrl": "Die von Ihnen verwendete URL scheint falsch zu sein. Überprüfen Sie, ob es sich um den richtigen Server handelt"
+    }
+  },
+  "Discover": {
+    "PopularMovies": "Beliebte Filme",
+    "SearchTitle": "Suche",
+    "DiscoverTitle": "Entdecken",
+    "PopularTv": "Populäres Fernsehen",
+    "TopRatedMovies": "Bestbewertete Filme",
+    "TrendingTv": "Trending Tv",
+    "UpcomingMovies": "Bald erscheinende Filme",
+    "AnticipatedTv": "Voraussichtlicher Fernseher",
+    "CarouselTitle": "Anzeigen von {{count}} Gesamtelementen",
+    "Errors": {}
+  }
+}
