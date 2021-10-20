@@ -1,43 +1,67 @@
 {
-  "Common": {
-    "Available": "Disponible",
-    "Approved": "Aprobado",
-    "Pending": "Pendiente",
-    "Movie": "Película",
-    "TvShow": "Programa de televisión"
-  },
-  "Settings": {
-    "Logout": "Cerrar sesión",
-    "Welcome": "Bienvenido"
-  },
-  "Login": {
-    "SignIn": "INICIAR SESIÓN",
-    "SignInTo": "Iniciar sesión en",
-    "QRCode": "ESCANEAR CÓDIGO QR",
-    "LoginIssue": "¿Tiene problemas para iniciar sesión en la aplicación? Presione aquí",
-    "NoCameraAccess": "¡El acceso a la cámara ha sido deshabilitado para esta aplicación!",
-    "UsernamePlaceholder": "Nombre de usuario",
-    "PasswordPlaceholder": "Contraseña",
-    "OmbiUrlPlaceholder": "URL Ombi",
-    "Errors": {
-      "LoginError": "Error de inicio de sesión",
-      "WrongServerTitle": "Versión de servidor incorrecta",
-      "OlderServer": "¡Ha intentado iniciar sesión en un servidor Ombi antiguo! Comuníquese con su administrador para actualizar.",
-      "IncorrectQRTitle": "Servidor Ombi incorrecto",
-      "IncorrectQR": "El código QR es incorrecto, hable con su administrador",
-      "IncorrectUrl": "La URL que estás usando parece ser incorrecta, verifica que sea el servidor correcto."
+    "Common": {
+        "Available": "Disponible",
+        "Approved": "Aprobado",
+        "Pending": "Pendiente",
+        "Movie": "Película",
+        "TvShow": "Programa de televisión",
+        "SuccessfulUpdate": "Successfully Updated",
+        "Updated": "Updated",
+        "Error": "Error",
+        "Update": "Update"
+    },
+    "Settings": {
+        "Logout": "Cerrar sesión",
+        "Welcome": "Bienvenido",
+        "UserManagement": {
+            "Validation": {
+                "Email": "Please enter valid email",
+                "EmailRequired": "Email Address is Required",
+                "UsernameRequired": "A Username is required",
+                "PasswordMatch": "The Passwords do not match"
+            }
+        }
+    },
+    "Login": {
+        "SignIn": "INICIAR SESIÓN",
+        "SignInTo": "Iniciar sesión en",
+        "Next": "NEXT",
+        "PlexOAuth": "PLEX OAUTH",
+        "QRCode": "ESCANEAR CÓDIGO QR",
+        "LoginIssue": "¿Tiene problemas para iniciar sesión en la aplicación? Presione aquí",
+        "NoCameraAccess": "¡El acceso a la cámara ha sido deshabilitado para esta aplicación!",
+        "UsernamePlaceholder": "Nombre de usuario",
+        "PasswordPlaceholder": "Contraseña",
+        "OmbiUrlPlaceholder": "URL Ombi",
+        "Errors": {
+            "LoginError": "Error de inicio de sesión",
+            "WrongServerTitle": "Versión de servidor incorrecta",
+            "OlderServer": "¡Ha intentado iniciar sesión en un servidor Ombi antiguo! Comuníquese con su administrador para actualizar.",
+            "IncorrectQRTitle": "Servidor Ombi incorrecto",
+            "IncorrectQR": "El código QR es incorrecto, hable con su administrador",
+            "IncorrectUrl": "La URL que estás usando parece ser incorrecta, verifica que sea el servidor correcto.",
+            "IncorrectLaunch": "The button on the website has not been setup correct, please contact your administrator"
+        }
+    },
+    "Discover": {
+        "PopularMovies": "Películas populares",
+        "SearchTitle": "Buscar",
+        "DiscoverTitle": "Descubrir",
+        "PopularTv": "TV popular",
+        "TopRatedMovies": "Películas mejor calificadas",
+        "TrendingTv": "Trending Tv",
+        "UpcomingMovies": "Próximas películas",
+        "AnticipatedTv": "Tv anticipado",
+        "CarouselTitle": "Mostrando {{count}} elementos totales",
+        "Errors": {}
+    },
+    "UserProfile": {
+        "EmailPlaceholder": "Email Address",
+        "PasswordPlaceholder": "Password",
+        "Validation": {
+            "Email": "Please enter valid email",
+            "EmailRequired": "Email Address is Required",
+            "PasswordRequired": "Your current password is required to update your user"
+        }
     }
-  },
-  "Discover": {
-    "PopularMovies": "Películas populares",
-    "SearchTitle": "Buscar",
-    "DiscoverTitle": "Descubrir",
-    "PopularTv": "TV popular",
-    "TopRatedMovies": "Películas mejor calificadas",
-    "TrendingTv": "Trending Tv",
-    "UpcomingMovies": "Próximas películas",
-    "AnticipatedTv": "Tv anticipado",
-    "CarouselTitle": "Mostrando {{count}} elementos totales",
-    "Errors": {}
-  }
 }
