@@ -1,43 +1,67 @@
 {
-  "Common": {
-    "Available": "A disposizione",
-    "Approved": "Approvato",
-    "Pending": "in attesa di",
-    "Movie": "Film",
-    "TvShow": "Programma televisivo"
-  },
-  "Settings": {
-    "Logout": "Esci",
-    "Welcome": "Benvenuto"
-  },
-  "Login": {
-    "SignIn": "ACCEDI",
-    "SignInTo": "Accedi a",
-    "QRCode": "SCANSIONE CODICE QR",
-    "LoginIssue": "Hai problemi ad accedere all'app? Premi qui",
-    "NoCameraAccess": "L'accesso alla telecamera è stato disabilitato per questa app!",
-    "UsernamePlaceholder": "Nome utente",
-    "PasswordPlaceholder": "Password",
-    "OmbiUrlPlaceholder": "URL Ombi",
-    "Errors": {
-      "LoginError": "Errore di accesso",
-      "WrongServerTitle": "Versione server errata",
-      "OlderServer": "Hai tentato di accedere a un server Ombi precedente! Contatta l'amministratore per l'aggiornamento.",
-      "IncorrectQRTitle": "Ombi Server non corretto",
-      "IncorrectQR": "Il codice QR non è corretto, rivolgiti al tuo amministratore",
-      "IncorrectUrl": "L'URL che stai utilizzando sembra non essere corretto, verifica che sia il server corretto"
+    "Common": {
+        "Available": "Available",
+        "Approved": "Approved",
+        "Pending": "Pending",
+        "Movie": "Movie",
+        "TvShow": "TV Show",
+        "SuccessfulUpdate": "Successfully Updated",
+        "Updated": "Updated",
+        "Error": "Error",
+        "Update": "Update"
+    },
+    "Settings": {
+        "Logout": "Logout",
+        "Welcome": "Welcome",
+        "UserManagement": {
+            "Validation": {
+                "Email": "Please enter valid email",
+                "EmailRequired": "Email Address is Required",
+                "UsernameRequired": "A Username is required",
+                "PasswordMatch": "The Passwords do not match"
+            }
+        }
+    },
+    "Login": {
+        "SignIn": "SIGN IN",
+        "SignInTo": "Sign in to",
+        "Next": "NEXT",
+        "PlexOAuth": "PLEX OAUTH",
+        "QRCode": "SCAN QR CODE",
+        "LoginIssue": "Are you having issues logging into the app? Press Here",
+        "NoCameraAccess": "Camera access has been disabled for this app!",
+        "UsernamePlaceholder": "Username",
+        "PasswordPlaceholder": "Password",
+        "OmbiUrlPlaceholder": "Ombi URL",
+        "Errors": {
+            "LoginError": "Login Error",
+            "WrongServerTitle": "Wrong Server Version",
+            "OlderServer": "You have attempted to login to an older Ombi server! Please contact your administrator to update.",
+            "IncorrectQRTitle": "Incorrect Ombi Server",
+            "IncorrectQR": "The QR Code is incorrect, please speak to your administrator",
+            "IncorrectUrl": "The URL you are using looks to be incorrect, please verify that its the correct server",
+            "IncorrectLaunch": "The button on the website has not been setup correct, please contact your administrator"
+        }
+    },
+    "Discover": {
+        "PopularMovies": "Popular Movies",
+        "SearchTitle": "Search",
+        "DiscoverTitle": "Discover",
+        "PopularTv": "Popular TV",
+        "TopRatedMovies": "Top Rated Movies",
+        "TrendingTv": "Trending Tv",
+        "UpcomingMovies": "Upcoming Movies",
+        "AnticipatedTv": "Anticipated Tv",
+        "CarouselTitle": "Displaying {{count}} total items",
+        "Errors": {}
+    },
+    "UserProfile": {
+        "EmailPlaceholder": "Email Address",
+        "PasswordPlaceholder": "Password",
+        "Validation": {
+            "Email": "Please enter valid email",
+            "EmailRequired": "Email Address is Required",
+            "PasswordRequired": "Your current password is required to update your user"
+        }
     }
-  },
-  "Discover": {
-    "PopularMovies": "Film popolari",
-    "SearchTitle": "Ricerca",
-    "DiscoverTitle": "Scoprire",
-    "PopularTv": "TV popolare",
-    "TopRatedMovies": "Film più votati",
-    "TrendingTv": "Tv di tendenza",
-    "UpcomingMovies": "Film in arrivo",
-    "AnticipatedTv": "Tv anticipata",
-    "CarouselTitle": "Visualizzazione di {{count}} articoli totali",
-    "Errors": {}
-  }
 }
