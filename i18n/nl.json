@@ -1,43 +1,67 @@
 {
-  "Common": {
-    "Available": "Beschikbaar",
-    "Approved": "Goedgekeurd",
-    "Pending": "In afwachting",
-    "Movie": "Film",
-    "TvShow": "Tv programma"
-  },
-  "Settings": {
-    "Logout": "Uitloggen",
-    "Welcome": "Welkom"
-  },
-  "Login": {
-    "SignIn": "AANMELDEN",
-    "SignInTo": "Aanmelden bij",
-    "QRCode": "QR-CODE SCANNEN",
-    "LoginIssue": "Heeft u problemen met inloggen op de app? Druk hier",
-    "NoCameraAccess": "Cameratoegang is uitgeschakeld voor deze app!",
-    "UsernamePlaceholder": "Gebruikersnaam",
-    "PasswordPlaceholder": "Wachtwoord",
-    "OmbiUrlPlaceholder": "Ombi URL",
-    "Errors": {
-      "LoginError": "Login fout",
-      "WrongServerTitle": "Verkeerde serverversie",
-      "OlderServer": "U heeft geprobeerd in te loggen op een oudere Ombi-server! Neem contact op met uw beheerder om bij te werken.",
-      "IncorrectQRTitle": "Onjuiste Ombi-server",
-      "IncorrectQR": "De QR-code is onjuist, neem contact op met uw beheerder",
-      "IncorrectUrl": "De URL die u gebruikt, lijkt onjuist te zijn, controleer of dit de juiste server is"
+    "Common": {
+        "Available": "Available",
+        "Approved": "Approved",
+        "Pending": "Pending",
+        "Movie": "Movie",
+        "TvShow": "TV Show",
+        "SuccessfulUpdate": "Successfully Updated",
+        "Updated": "Updated",
+        "Error": "Error",
+        "Update": "Update"
+    },
+    "Settings": {
+        "Logout": "Logout",
+        "Welcome": "Welcome",
+        "UserManagement": {
+            "Validation": {
+                "Email": "Please enter valid email",
+                "EmailRequired": "Email Address is Required",
+                "UsernameRequired": "A Username is required",
+                "PasswordMatch": "The Passwords do not match"
+            }
+        }
+    },
+    "Login": {
+        "SignIn": "SIGN IN",
+        "SignInTo": "Sign in to",
+        "Next": "NEXT",
+        "PlexOAuth": "PLEX OAUTH",
+        "QRCode": "SCAN QR CODE",
+        "LoginIssue": "Are you having issues logging into the app? Press Here",
+        "NoCameraAccess": "Camera access has been disabled for this app!",
+        "UsernamePlaceholder": "Username",
+        "PasswordPlaceholder": "Password",
+        "OmbiUrlPlaceholder": "Ombi URL",
+        "Errors": {
+            "LoginError": "Login Error",
+            "WrongServerTitle": "Wrong Server Version",
+            "OlderServer": "You have attempted to login to an older Ombi server! Please contact your administrator to update.",
+            "IncorrectQRTitle": "Incorrect Ombi Server",
+            "IncorrectQR": "The QR Code is incorrect, please speak to your administrator",
+            "IncorrectUrl": "The URL you are using looks to be incorrect, please verify that its the correct server",
+            "IncorrectLaunch": "The button on the website has not been setup correct, please contact your administrator"
+        }
+    },
+    "Discover": {
+        "PopularMovies": "Popular Movies",
+        "SearchTitle": "Search",
+        "DiscoverTitle": "Discover",
+        "PopularTv": "Popular TV",
+        "TopRatedMovies": "Top Rated Movies",
+        "TrendingTv": "Trending Tv",
+        "UpcomingMovies": "Upcoming Movies",
+        "AnticipatedTv": "Anticipated Tv",
+        "CarouselTitle": "Displaying {{count}} total items",
+        "Errors": {}
+    },
+    "UserProfile": {
+        "EmailPlaceholder": "Email Address",
+        "PasswordPlaceholder": "Password",
+        "Validation": {
+            "Email": "Please enter valid email",
+            "EmailRequired": "Email Address is Required",
+            "PasswordRequired": "Your current password is required to update your user"
+        }
     }
-  },
-  "Discover": {
-    "PopularMovies": "Populaire films",
-    "SearchTitle": "Zoeken",
-    "DiscoverTitle": "Ontdek",
-    "PopularTv": "Populaire tv",
-    "TopRatedMovies": "Best beoordeelde films",
-    "TrendingTv": "Trending tv",
-    "UpcomingMovies": "Aankomende films",
-    "AnticipatedTv": "Verwachte tv",
-    "CarouselTitle": "Er worden in totaal {{count}} items weergegeven",
-    "Errors": {}
-  }
 }
