@@ -5,17 +5,17 @@
         "Pending": "in attesa di",
         "Movie": "Film",
         "TvShow": "Programma televisivo",
-        "SuccessfulUpdate": "Successfully Updated",
-        "Updated": "Updated",
-        "Error": "Error",
-        "Update": "Update"
+        "SuccessfulUpdate": "Aggiornato con successo",
+        "Updated": "Aggiornato",
+        "Error": "Errore",
+        "Update": "Aggiorna"
     },
     "Settings": {
         "Logout": "Esci",
         "Welcome": "Benvenuto",
         "UserManagement": {
             "Validation": {
-                "Email": "Please enter valid email",
+                "Email": "Inserisci un'email valida",
                 "EmailRequired": "Email Address is Required",
                 "UsernameRequired": "A Username is required",
                 "PasswordMatch": "The Passwords do not match"
