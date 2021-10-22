@@ -1,67 +1,67 @@
 {
     "Common": {
-        "Available": "A disposizione",
-        "Approved": "Approvato",
-        "Pending": "in attesa di",
+        "Available": "Disponibile",
+        "Approved": "Approvata",
+        "Pending": "In attesa",
         "Movie": "Film",
-        "TvShow": "Programma televisivo",
-        "SuccessfulUpdate": "Successfully Updated",
-        "Updated": "Updated",
-        "Error": "Error",
-        "Update": "Update"
+        "TvShow": "Serie TV",
+        "SuccessfulUpdate": "Aggiornato con successo",
+        "Updated": "Aggiornato",
+        "Error": "Errore",
+        "Update": "Aggiorna"
     },
     "Settings": {
         "Logout": "Esci",
         "Welcome": "Benvenuto",
         "UserManagement": {
             "Validation": {
-                "Email": "Please enter valid email",
-                "EmailRequired": "Email Address is Required",
-                "UsernameRequired": "A Username is required",
-                "PasswordMatch": "The Passwords do not match"
+                "Email": "Inserisci un'email valida",
+                "EmailRequired": "Indirizzo e-mail obbligatorio",
+                "UsernameRequired": "Nome utente obbligatorio",
+                "PasswordMatch": "Le password non corrispondono"
             }
         }
     },
     "Login": {
         "SignIn": "ACCEDI",
         "SignInTo": "Accedi a",
-        "Next": "NEXT",
-        "PlexOAuth": "PLEX OAUTH",
+        "Next": "AVANTI",
+        "PlexOAuth": "OAUTH PLEX",
         "QRCode": "SCANSIONE CODICE QR",
-        "LoginIssue": "Hai problemi ad accedere all'app? Premi qui",
-        "NoCameraAccess": "L'accesso alla telecamera è stato disabilitato per questa app!",
+        "LoginIssue": "Problemi di accesso all'app? Premi qui",
+        "NoCameraAccess": "Accesso tramite fotocamera disattivato per questa app!",
         "UsernamePlaceholder": "Nome utente",
         "PasswordPlaceholder": "Password",
         "OmbiUrlPlaceholder": "URL Ombi",
         "Errors": {
             "LoginError": "Errore di accesso",
             "WrongServerTitle": "Versione server errata",
-            "OlderServer": "Hai tentato di accedere a un server Ombi precedente! Contatta l'amministratore per l'aggiornamento.",
-            "IncorrectQRTitle": "Ombi Server non corretto",
-            "IncorrectQR": "Il codice QR non è corretto, rivolgiti al tuo amministratore",
-            "IncorrectUrl": "L'URL che stai utilizzando sembra non essere corretto, verifica che sia il server corretto",
-            "IncorrectLaunch": "The button on the website has not been setup correct, please contact your administrator"
+            "OlderServer": "Il server Ombi a cui hai tentato di accedere è troppo vecchio! Contatta l'amministratore per farlo aggiornare.",
+            "IncorrectQRTitle": "Server Ombi non corretto",
+            "IncorrectQR": "Codice QR non corretto, contatta il tuo amministratore",
+            "IncorrectUrl": "L'URL che stai utilizzando sembra non essere corretto, verifica che il server sia corretto",
+            "IncorrectLaunch": "Il pulsante sul sito non è stato configurato correttamente, contattare l'amministratore"
         }
     },
     "Discover": {
         "PopularMovies": "Film popolari",
-        "SearchTitle": "Ricerca",
-        "DiscoverTitle": "Scoprire",
-        "PopularTv": "TV popolare",
+        "SearchTitle": "Cerca",
+        "DiscoverTitle": "Scopri",
+        "PopularTv": "Popolare in TV",
         "TopRatedMovies": "Film più votati",
-        "TrendingTv": "Tv di tendenza",
+        "TrendingTv": "TV di tendenza",
         "UpcomingMovies": "Film in arrivo",
-        "AnticipatedTv": "Tv anticipata",
+        "AnticipatedTv": "TV anticipate",
         "CarouselTitle": "Visualizzazione di {{count}} articoli totali",
         "Errors": {}
     },
     "UserProfile": {
-        "EmailPlaceholder": "Email Address",
+        "EmailPlaceholder": "Indirizzo e-mail",
         "PasswordPlaceholder": "Password",
         "Validation": {
-            "Email": "Please enter valid email",
-            "EmailRequired": "Email Address is Required",
-            "PasswordRequired": "Your current password is required to update your user"
+            "Email": "Inserisci un'email valida",
+            "EmailRequired": "Indirizzo e-mail obbligatorio",
+            "PasswordRequired": "Password attuale obbligatoria per aggiornare il tuo profilo"
         }
     }
 }
