@@ -10,8 +10,8 @@
         "Error": "Erreur",
         "Update": "Mettre à jour",
         "Notification": "Notification",
-        "Requested": "Requested",
-        "MarkedAsAvailable": "Marked As Available"
+        "Requested": "Demandé",
+        "MarkedAsAvailable": "Marqué comme disponible"
     },
     "Settings": {
         "Logout": "Déconnexion",
@@ -69,24 +69,24 @@
     },
     "Details": {
         "Movie": {
-            "Denied": "Denied Movie",
-            "Deleted": "Deleted Movie",
-            "UpdatedOptions": "Updated Options",
-            "DeletedRequest": "Successfully deleted the request for {{title}}",
-            "Unsubscribe": "You will no longer be notified for the movie {{title}}",
-            "Subscribe": "You will now be notified for the movie {{title}}",
+            "Denied": "Film refusé",
+            "Deleted": "Film supprimé",
+            "UpdatedOptions": "Options mises à jour",
+            "DeletedRequest": "La demande pour {{title}} a été supprimée avec succès",
+            "Unsubscribe": "Vous ne serez plus notifié pour le film {{title}}",
+            "Subscribe": "Vous serez désormais notifié pour le film {{title}}",
             "Errors": {}
         },
         "Tv": {
-            "Unsubscribe": "You will no longer be notified for the show {{title}}",
-            "Subscribe": "You will now be notified for the show {{title}}",
-            "Subtitle": "Seasons: {{seasonCount}}, Episodes: {{episodeCount}}",
+            "Unsubscribe": "Vous ne serez plus notifié pour la série {{title}}",
+            "Subscribe": "Vous serez désormais notifié pour la série {{title}}",
+            "Subtitle": "Saisons : {{seasonCount}}, Épisodes : {{episodeCount}}",
             "Errors": {}
         }
     },
     "Issues": {
-        "Title": "Issue",
-        "Reported": "Issue Reported",
+        "Title": "Problème",
+        "Reported": "Problème signalé",
         "Errors": {}
     }
 }
