@@ -8,7 +8,10 @@
         "SuccessfulUpdate": "Successfully Updated",
         "Updated": "Updated",
         "Error": "Error",
-        "Update": "Update"
+        "Update": "Update",
+        "Notification": "Notification",
+        "Requested": "Requested",
+        "MarkedAsAvailable": "Marked As Available"
     },
     "Settings": {
         "Logout": "Uitloggen",
@@ -63,5 +66,27 @@
             "EmailRequired": "Email Address is Required",
             "PasswordRequired": "Your current password is required to update your user"
         }
+    },
+    "Details": {
+        "Movie": {
+            "Denied": "Denied Movie",
+            "Deleted": "Deleted Movie",
+            "UpdatedOptions": "Updated Options",
+            "DeletedRequest": "Successfully deleted the request for {{title}}",
+            "Unsubscribe": "You will no longer be notified for the movie {{title}}",
+            "Subscribe": "You will now be notified for the movie {{title}}",
+            "Errors": {}
+        },
+        "Tv": {
+            "Unsubscribe": "You will no longer be notified for the show {{title}}",
+            "Subscribe": "You will now be notified for the show {{title}}",
+            "Subtitle": "Seasons: {{seasonCount}}, Episodes: {{episodeCount}}",
+            "Errors": {}
+        }
+    },
+    "Issues": {
+        "Title": "Issue",
+        "Reported": "Issue Reported",
+        "Errors": {}
     }
 }

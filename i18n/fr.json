@@ -8,7 +8,10 @@
         "SuccessfulUpdate": "Mise à jour réussie",
         "Updated": "Mis à jour",
         "Error": "Erreur",
-        "Update": "Mettre à jour"
+        "Update": "Mettre à jour",
+        "Notification": "Notification",
+        "Requested": "Demandé",
+        "MarkedAsAvailable": "Marqué comme disponible"
     },
     "Settings": {
         "Logout": "Déconnexion",
@@ -63,5 +66,27 @@
             "EmailRequired": "L'adresse e-mail est requise",
             "PasswordRequired": "Votre mot de passe actuel est requis pour mettre à jour votre utilisateur"
         }
+    },
+    "Details": {
+        "Movie": {
+            "Denied": "Film refusé",
+            "Deleted": "Film supprimé",
+            "UpdatedOptions": "Options mises à jour",
+            "DeletedRequest": "La demande pour {{title}} a été supprimée avec succès",
+            "Unsubscribe": "Vous ne serez plus notifié pour le film {{title}}",
+            "Subscribe": "Vous serez désormais notifié pour le film {{title}}",
+            "Errors": {}
+        },
+        "Tv": {
+            "Unsubscribe": "Vous ne serez plus notifié pour la série {{title}}",
+            "Subscribe": "Vous serez désormais notifié pour la série {{title}}",
+            "Subtitle": "Saisons : {{seasonCount}}, Épisodes : {{episodeCount}}",
+            "Errors": {}
+        }
+    },
+    "Issues": {
+        "Title": "Problème",
+        "Reported": "Problème signalé",
+        "Errors": {}
     }
 }
