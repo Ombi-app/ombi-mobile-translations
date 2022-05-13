@@ -42,7 +42,7 @@
             "OlderServer": "Sie haben versucht, sich bei einem älteren Ombi-Server anzumelden! Bitte wenden Sie sich zum Aktualisieren an Ihren Administrator.",
             "IncorrectQRTitle": "Falscher Ombi Server",
             "IncorrectQR": "Der QR-Code ist falsch. Bitte sprechen Sie mit Ihrem Administrator",
-            "IncorrectUrl": "Die von Ihnen verwendete URL scheint falsch zu sein. Überprüfen Sie, ob es sich um den richtigen Server handelt",
+            "IncorrectUrl": "Die von Ihnen verwendete URL scheint falsch zu sein. Bitte überprüfen Sie, ob es sich um den richtigen Server handelt",
             "IncorrectLaunch": "Der Button auf der Website wurde nicht korrekt eingestellt, bitte kontaktieren Sie Ihren Administrator"
         }
     },
@@ -50,12 +50,12 @@
         "PopularMovies": "Beliebte Filme",
         "SearchTitle": "Suche",
         "DiscoverTitle": "Entdecken",
-        "PopularTv": "Populäres Fernsehen",
-        "TopRatedMovies": "Bestbewertete Filme",
+        "PopularTv": "Populäre Serien",
+        "TopRatedMovies": "Am besten bewertete Filme",
         "TrendingTv": "Angesagte Serien",
         "UpcomingMovies": "Bald erscheinende Filme",
-        "AnticipatedTv": "Voraussichtlicher Fernseher",
-        "CarouselTitle": "Anzeigen von {{count}} Gesamtelementen",
+        "AnticipatedTv": "Erwartete Serien",
+        "CarouselTitle": "Zeige {{count}} Elemente",
         "Errors": {}
     },
     "UserProfile": {
