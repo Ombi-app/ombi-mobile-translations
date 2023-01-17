@@ -21,7 +21,7 @@
                 "Email": "Por favor introduzca un email válido",
                 "EmailRequired": "Se requiere una dirección de email",
                 "UsernameRequired": "Se requiere un nombre de usuario",
-                "PasswordMatch": "The Passwords do not match"
+                "PasswordMatch": "Las contraseñas no coinciden"
             }
         }
     },
