@@ -5,22 +5,22 @@
         "Pending": "Pendiente",
         "Movie": "Película",
         "TvShow": "Programa de televisión",
-        "SuccessfulUpdate": "Successfully Updated",
-        "Updated": "Updated",
+        "SuccessfulUpdate": "Actualizado correctamente",
+        "Updated": "Actualizado",
         "Error": "Error",
-        "Update": "Update",
-        "Notification": "Notification",
-        "Requested": "Requested",
-        "MarkedAsAvailable": "Marked As Available"
+        "Update": "Actualización",
+        "Notification": "Notificación",
+        "Requested": "Solicitado",
+        "MarkedAsAvailable": "Marcado Como Disponible"
     },
     "Settings": {
         "Logout": "Cerrar sesión",
         "Welcome": "Bienvenido",
         "UserManagement": {
             "Validation": {
-                "Email": "Please enter valid email",
-                "EmailRequired": "Email Address is Required",
-                "UsernameRequired": "A Username is required",
+                "Email": "Por favor introduzca un email válido",
+                "EmailRequired": "Se requiere una dirección de email",
+                "UsernameRequired": "Se requiere un nombre de usuario",
                 "PasswordMatch": "The Passwords do not match"
             }
         }
