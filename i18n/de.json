@@ -5,32 +5,32 @@
         "Pending": "steht aus",
         "Movie": "Film",
         "TvShow": "Fernsehsendung",
-        "SuccessfulUpdate": "Successfully Updated",
-        "Updated": "Updated",
-        "Error": "Error",
-        "Update": "Update",
-        "Notification": "Notification",
-        "Requested": "Requested",
-        "MarkedAsAvailable": "Marked As Available"
+        "SuccessfulUpdate": "Erfolgreich aktualisiert",
+        "Updated": "Aktualisiert",
+        "Error": "Fehler",
+        "Update": "Aktualisierung",
+        "Notification": "Benachrichtigung",
+        "Requested": "Angefordert",
+        "MarkedAsAvailable": "Als verfügbar markieren"
     },
     "Settings": {
         "Logout": "Abmelden",
         "Welcome": "Willkommen",
         "UserManagement": {
             "Validation": {
-                "Email": "Please enter valid email",
-                "EmailRequired": "Email Address is Required",
-                "UsernameRequired": "A Username is required",
-                "PasswordMatch": "The Passwords do not match"
+                "Email": "Bitte eine gültige E-Mail eingeben",
+                "EmailRequired": "E-Mail-Adresse wird benötigt",
+                "UsernameRequired": "Ein Benutzername wird benötigt",
+                "PasswordMatch": "Die Passwörter stimmen nicht überein"
             }
         }
     },
     "Login": {
         "SignIn": "ANMELDEN",
         "SignInTo": "Anmelden bei",
-        "Next": "NEXT",
+        "Next": "WEITER",
         "PlexOAuth": "PLEX OAUTH",
-        "QRCode": "SCAN QR CODE",
+        "QRCode": "QR-CODE SCANNEN",
         "LoginIssue": "Haben Sie Probleme beim Anmelden bei der App? Klicken Sie hier",
         "NoCameraAccess": "Der Kamerazugriff wurde für diese App deaktiviert!",
         "UsernamePlaceholder": "Benutzername",
@@ -42,51 +42,51 @@
             "OlderServer": "Sie haben versucht, sich bei einem älteren Ombi-Server anzumelden! Bitte wenden Sie sich zum Aktualisieren an Ihren Administrator.",
             "IncorrectQRTitle": "Falscher Ombi Server",
             "IncorrectQR": "Der QR-Code ist falsch. Bitte sprechen Sie mit Ihrem Administrator",
-            "IncorrectUrl": "Die von Ihnen verwendete URL scheint falsch zu sein. Überprüfen Sie, ob es sich um den richtigen Server handelt",
-            "IncorrectLaunch": "The button on the website has not been setup correct, please contact your administrator"
+            "IncorrectUrl": "Die von Ihnen verwendete URL scheint falsch zu sein. Bitte überprüfen Sie, ob es sich um den richtigen Server handelt",
+            "IncorrectLaunch": "Der Button auf der Website wurde nicht korrekt eingestellt, bitte kontaktieren Sie Ihren Administrator"
         }
     },
     "Discover": {
         "PopularMovies": "Beliebte Filme",
         "SearchTitle": "Suche",
         "DiscoverTitle": "Entdecken",
-        "PopularTv": "Populäres Fernsehen",
-        "TopRatedMovies": "Bestbewertete Filme",
-        "TrendingTv": "Trending Tv",
+        "PopularTv": "Populäre Serien",
+        "TopRatedMovies": "Am besten bewertete Filme",
+        "TrendingTv": "Angesagte Serien",
         "UpcomingMovies": "Bald erscheinende Filme",
-        "AnticipatedTv": "Voraussichtlicher Fernseher",
-        "CarouselTitle": "Anzeigen von {{count}} Gesamtelementen",
+        "AnticipatedTv": "Erwartete Serien",
+        "CarouselTitle": "Zeige {{count}} Elemente",
         "Errors": {}
     },
     "UserProfile": {
-        "EmailPlaceholder": "Email Address",
-        "PasswordPlaceholder": "Password",
+        "EmailPlaceholder": "E-Mail-Adresse",
+        "PasswordPlaceholder": "Passwort",
         "Validation": {
-            "Email": "Please enter valid email",
-            "EmailRequired": "Email Address is Required",
-            "PasswordRequired": "Your current password is required to update your user"
+            "Email": "Bitte eine gültige E-Mail eingeben",
+            "EmailRequired": "E-Mail-Adresse wird benötigt",
+            "PasswordRequired": "Ihr aktuelles Passwort wird benötigt, um Ihren Benutzer zu aktualisieren"
         }
     },
     "Details": {
         "Movie": {
-            "Denied": "Denied Movie",
-            "Deleted": "Deleted Movie",
+            "Denied": "Abgelehnter Film",
+            "Deleted": "Gelöschter Film",
             "UpdatedOptions": "Updated Options",
-            "DeletedRequest": "Successfully deleted the request for {{title}}",
-            "Unsubscribe": "You will no longer be notified for the movie {{title}}",
-            "Subscribe": "You will now be notified for the movie {{title}}",
+            "DeletedRequest": "Anfrage für {{title}} erfolgreich gelöscht",
+            "Unsubscribe": "Sie werden für den Film {{title}} nicht mehr benachrichtigt",
+            "Subscribe": "Sie werden jetzt für den Film {{title}} benachrichtigt",
             "Errors": {}
         },
         "Tv": {
-            "Unsubscribe": "You will no longer be notified for the show {{title}}",
-            "Subscribe": "You will now be notified for the show {{title}}",
-            "Subtitle": "Seasons: {{seasonCount}}, Episodes: {{episodeCount}}",
+            "Unsubscribe": "Sie werden für die Serie {{title}} nicht mehr benachrichtigt",
+            "Subscribe": "Sie werden jetzt für die Serie {{title}} benachrichtigt",
+            "Subtitle": "Staffeln: {{seasonCount}}, Episoden: {{episodeCount}}",
             "Errors": {}
         }
     },
     "Issues": {
-        "Title": "Issue",
-        "Reported": "Issue Reported",
+        "Title": "Problem",
+        "Reported": "Problem gemeldet",
         "Errors": {}
     }
 }
