@@ -47,6 +47,7 @@
         }
     },
     "Discover": {
+        "RecentlyRequested": "Recently Requested",
         "PopularMovies": "Populaire films",
         "SearchTitle": "Zoeken",
         "DiscoverTitle": "Ontdek",
