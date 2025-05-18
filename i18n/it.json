@@ -47,6 +47,7 @@
         }
     },
     "Discover": {
+        "RecentlyRequested": "Richieste recenti",
         "PopularMovies": "Film popolari",
         "SearchTitle": "Cerca",
         "DiscoverTitle": "Scopri",
